@@ -1,0 +1,1 @@
+# aws_vpc_ssm_public_subnet_ECS_ec2_bridge_nginx_terraform
